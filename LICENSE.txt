@@ -1,0 +1,14 @@
+SONOVA Proprietary License
+Copyright (c) 2026 SONOVA
+
+ALL RIGHTS RESERVED.
+
+This software and all associated files (the "Software") are the sole property of SONOVA.
+
+Ownership: The Software, including but not limited to the code, design, animations, and visual assets, is protected by copyright laws.
+
+Usage: Unauthorized copying, modification, distribution, or public display of this Software, via any medium, is strictly prohibited.
+
+Restricted Access: This code is for internal use only. No part of this repository may be used to create derivative works or competing platforms without express written consent from the owner.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
